@@ -1,5 +1,5 @@
 # Grade-Prediction
-This program helps us in predicting a students Future grade based on their conduct and previous performances, using USI data science repository.
+This program helps us in predicting a students Future grade based on their conduct and previous performances, using UCI data science repository.
 
 The algorithm used for this model is “Linear Regression” which is based on supervised learning.
 
